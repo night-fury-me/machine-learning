@@ -12,12 +12,18 @@ For further explanation on Decision Tree have a look on [this article](https://r
 ~ g++ dTree.cpp -o dTree
 ```
 
+Avainle options,
+
+1. optimized
+2. randomized
+3. forest3
+4. forest15
+
 #### For Training and Test Prediction
 
 ```bash
 ~ ./dTree [training_file_path] [test_file_path] [option] [pruning_threshold]
 ```
-
 
 
 #### Example
