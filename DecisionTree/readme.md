@@ -2,7 +2,7 @@
 
 This is a simple implementation of decision tree classifier for continuous data based on **Infomation Gain** in **C++**,
 
-For further explanation on Decision Tree [here](https://redwandipto.github.io/blog/2017/12/07/Decision-Tree-Learning/) . 
+For further explanation on Decision Tree have a look on [this article](https://redwandipto.github.io/blog/2017/12/07/Decision-Tree-Learning/).
 
 #### Compilation instruction:  ( For Linux / OSX )
 **1.** Compile and Run with these below commands:
