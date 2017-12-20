@@ -12,7 +12,7 @@ For further explanation on Decision Tree have a look on [this article](https://r
 ~ g++ dTree.cpp -o dTree
 ```
 
-Avainle options,
+Available options,
 
 1. optimized
 2. randomized
