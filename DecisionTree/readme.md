@@ -3,7 +3,7 @@
 This is a simple implementation of decision tree classifier for continuous data based on **Infomation Gain** in **C++**,  
 
 #### Compilation instruction:  ( For Linux / OSX )
-1. Compile and Run with these below commands:
+**1.** Compile and Run with these below commands:
 ( Assuming current directroy is the directory where the dTree.cpp file is, if not then goto section "2" )
 
 ```bash
@@ -54,4 +54,5 @@ These are only available in C++11 compilation mode, i.e. -std=c++11 or -std=gnu+
 
 
 ####Reference :
+
 [https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_headers.html](https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_headers.html)
