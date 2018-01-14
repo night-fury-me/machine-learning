@@ -21,7 +21,7 @@ This is a simple implementation of KNN classifier for continuous data in **C++**
 #### Example
 
 ```bash
-~ ./classify yeast_training.txt yeast_test.txt knn 19
+~ ./classify data/yeast_training.txt data/yeast_test.txt knn 19
 ```
 
 
