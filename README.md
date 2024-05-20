@@ -118,7 +118,7 @@
 - [ ]  Soft Actor-Critic (SAC)
 - [ ]  Trust Region Policy Optimization (TRPO)
 
-### 5. Topics Related to ML/DL/RL
+### 5. Model Evaluation and Optimization Techniques
 
 - **Cost Functions**
     - [ ]  Mean Squared Error (MSE)
@@ -143,9 +143,6 @@
     - [ ]  Cross-Validation
     - [ ]  Bootstrapping
     - [ ]  Train/Test Split
-
-### 6. ML and DL Model Optimization Techniques
-
 - [ ]  Hyperparameter Tuning
 - [ ]  Grid Search
 - [ ]  Random Search
@@ -222,7 +219,7 @@
         - [ ]  Sparse Representations
         - [ ]  Sparse Training
 
-### 7. Dataset Preparation Tools and Techniques
+### 6. Dataset Preparation Tools and Techniques
 
 - **Data Collection and Labeling**
     - [ ]  Crowd sourcing
@@ -311,7 +308,7 @@
         - [ ]  Real-time Feature Serving
         - [ ]  Tools: Feast, Hopsworks, Tecton, Michelangelo Feature Store (Uber)
 
-### 8. Error Analysis and Data Lifecycle in Production
+### 7. Error Analysis and Data Lifecycle in Production
 
 - **Data and Concept Change in Production**
     - [ ]  Data Drift Detection
@@ -387,7 +384,7 @@
     - [ ]  Concept Drift Monitoring
     - [ ]  Model Fairness Monitoring
 
-### 9. Machine Learning Project Lifecycle and Deployment
+### 8. Machine Learning Project Lifecycle and Deployment
 
 - **Model Deployment**
     - [ ]  Model Serving Infrastructure
@@ -415,7 +412,7 @@
     - [ ]  Observability in ML
     - [ ]  Addressing Model Decay
 
-### 10. Miscellaneous
+### 9. Miscellaneous
 
 - **Model Explainability Techniques**
     - Feature Importance Methods
