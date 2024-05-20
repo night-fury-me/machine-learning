@@ -94,27 +94,29 @@
     - [ ]  Self-Training
     - [ ]  Co-Training
     - [ ]  Multi-View Learning
-### 3. Reinforcement Learning
-    - [ ]  Q-Learning
-    - [ ]  Deep Q-Network (DQN)
-    - [ ]  SARSA
-    - [ ]  Policy Gradient Methods
-    - [ ]  Actor-Critic Methods
-    - [ ]  Proximal Policy Optimization (PPO)
-    - [ ]  Asynchronous Advantage Actor-Critic (A3C)
-    - [ ]  Soft Actor-Critic (SAC)
-    - [ ]  Trust Region Policy Optimization (TRPO)
-### 4. Deep Learning
-    - [ ]  Feedforward Neural Networks (FNN)
-    - [ ]  Convolutional Neural Networks (CNN)
-    - [ ]  Recurrent Neural Networks (RNN)
-    - [ ]  Long Short-Term Memory (LSTM)
-    - [ ]  Gated Recurrent Unit (GRU)
-    - [ ]  Generative Adversarial Networks (GAN)
-    - [ ]  Variational Autoencoders (VAE)
-    - [ ]  Transformer Networks
-    - [ ]  Attention Mechanisms
-    - [ ]  Self-Supervised Learning Models
+
+### 3. Deep Learning
+- [ ]  Feedforward Neural Networks (FNN)
+- [ ]  Convolutional Neural Networks (CNN)
+- [ ]  Recurrent Neural Networks (RNN)
+- [ ]  Long Short-Term Memory (LSTM)
+- [ ]  Gated Recurrent Unit (GRU)
+- [ ]  Generative Adversarial Networks (GAN)
+- [ ]  Variational Autoencoders (VAE)
+- [ ]  Transformer Networks
+- [ ]  Attention Mechanisms
+- [ ]  Self-Supervised Learning Models
+      
+### 4. Reinforcement Learning
+- [ ]  Q-Learning
+- [ ]  Deep Q-Network (DQN)
+- [ ]  SARSA
+- [ ]  Policy Gradient Methods
+- [ ]  Actor-Critic Methods
+- [ ]  Proximal Policy Optimization (PPO)
+- [ ]  Asynchronous Advantage Actor-Critic (A3C)
+- [ ]  Soft Actor-Critic (SAC)
+- [ ]  Trust Region Policy Optimization (TRPO)
 
 ### 5. Topics Related to ML/DL/RL
 
