@@ -94,7 +94,7 @@
     - [ ]  Self-Training
     - [ ]  Co-Training
     - [ ]  Multi-View Learning
-- [ ]  **Reinforcement Learning**
+### 3. Reinforcement Learning
     - [ ]  Q-Learning
     - [ ]  Deep Q-Network (DQN)
     - [ ]  SARSA
@@ -104,7 +104,7 @@
     - [ ]  Asynchronous Advantage Actor-Critic (A3C)
     - [ ]  Soft Actor-Critic (SAC)
     - [ ]  Trust Region Policy Optimization (TRPO)
-- [ ]  **Deep Learning**
+### 4. Deep Learning
     - [ ]  Feedforward Neural Networks (FNN)
     - [ ]  Convolutional Neural Networks (CNN)
     - [ ]  Recurrent Neural Networks (RNN)
@@ -116,7 +116,7 @@
     - [ ]  Attention Mechanisms
     - [ ]  Self-Supervised Learning Models
 
-### 3. Topics Related to ML/DL/RL
+### 5. Topics Related to ML/DL/RL
 
 - **Cost Functions**
     - [ ]  Mean Squared Error (MSE)
@@ -142,7 +142,7 @@
     - [ ]  Bootstrapping
     - [ ]  Train/Test Split
 
-### 4. ML and DL Model Optimization Techniques
+### 6. ML and DL Model Optimization Techniques
 
 - [ ]  Hyperparameter Tuning
 - [ ]  Grid Search
@@ -220,7 +220,7 @@
         - [ ]  Sparse Representations
         - [ ]  Sparse Training
 
-### 5. Dataset Preparation Tools and Techniques
+### 7. Dataset Preparation Tools and Techniques
 
 - **Data Collection and Labeling**
     - [ ]  Crowd sourcing
@@ -309,7 +309,7 @@
         - [ ]  Real-time Feature Serving
         - [ ]  Tools: Feast, Hopsworks, Tecton, Michelangelo Feature Store (Uber)
 
-### 6. Error Analysis and Data Lifecycle in Production
+### 8. Error Analysis and Data Lifecycle in Production
 
 - **Data and Concept Change in Production**
     - [ ]  Data Drift Detection
@@ -385,7 +385,7 @@
     - [ ]  Concept Drift Monitoring
     - [ ]  Model Fairness Monitoring
 
-### 7. Machine Learning Project Lifecycle and Deployment
+### 9. Machine Learning Project Lifecycle and Deployment
 
 - **Model Deployment**
     - [ ]  Model Serving Infrastructure
@@ -413,7 +413,7 @@
     - [ ]  Observability in ML
     - [ ]  Addressing Model Decay
 
-### 8. Miscellaneous
+### 10. Miscellaneous
 
 - **Model Explainability Techniques**
     - Feature Importance Methods
