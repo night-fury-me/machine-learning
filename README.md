@@ -67,13 +67,13 @@
     - [ ]  Value Iteration
     - [ ]  Policy Iteration
 
-### 2. Machine Learning
+### 3. Machine Learning
 
 - [ ]  **Supervised Learning**
     - [ ]  Linear Regression
     - [ ]  Logistic Regression
-    - [ ]  Decision Trees
-    - [ ]  Random Forest
+    - [x]  Decision Trees
+    - [x]  Random Forest
     - [ ]  Support Vector Machines (SVM)
     - [ ]  K-Nearest Neighbors (KNN)
     - [ ]  Gradient Boosting Machines
@@ -95,7 +95,7 @@
     - [ ]  Co-Training
     - [ ]  Multi-View Learning
 
-### 3. Deep Learning
+### 4. Deep Learning
 - [ ]  Feedforward Neural Networks (FNN)
 - [ ]  Convolutional Neural Networks (CNN)
 - [ ]  Recurrent Neural Networks (RNN)
@@ -107,7 +107,7 @@
 - [ ]  Attention Mechanisms
 - [ ]  Self-Supervised Learning Models
       
-### 4. Reinforcement Learning
+### 5. Reinforcement Learning
 - [ ]  Q-Learning
 - [ ]  Deep Q-Network (DQN)
 - [ ]  SARSA
@@ -118,7 +118,7 @@
 - [ ]  Soft Actor-Critic (SAC)
 - [ ]  Trust Region Policy Optimization (TRPO)
 
-### 5. Model Evaluation and Optimization Techniques
+### 6. Model Evaluation and Optimization Techniques
 
 - **Cost Functions**
     - [ ]  Mean Squared Error (MSE)
@@ -219,7 +219,7 @@
         - [ ]  Sparse Representations
         - [ ]  Sparse Training
 
-### 6. Dataset Preparation Tools and Techniques
+### 7. Dataset Preparation Tools and Techniques
 
 - **Data Collection and Labeling**
     - [ ]  Crowd sourcing
@@ -308,7 +308,7 @@
         - [ ]  Real-time Feature Serving
         - [ ]  Tools: Feast, Hopsworks, Tecton, Michelangelo Feature Store (Uber)
 
-### 7. Error Analysis and Data Lifecycle in Production
+### 8. Error Analysis and Data Lifecycle in Production
 
 - **Data and Concept Change in Production**
     - [ ]  Data Drift Detection
@@ -384,7 +384,7 @@
     - [ ]  Concept Drift Monitoring
     - [ ]  Model Fairness Monitoring
 
-### 8. Machine Learning Project Lifecycle and Deployment
+### 9. Machine Learning Project Lifecycle and Deployment
 
 - **Model Deployment**
     - [ ]  Model Serving Infrastructure
@@ -459,7 +459,7 @@
       - [ ] Model Performance Degradation Detection
       - **Tools and Technologies:** MLflow Model Registry with Scheduled Retraining, TFX (TensorFlow Extended) with Continuous Training, Monitoring and Alerting Systems for Data Drift Detection, Model Retraining Orchestration with Airflow or Kubeflow Pipelines
 
-### 9. Miscellaneous
+### 10. Miscellaneous
 
 - **Model Explainability Techniques**
     - Feature Importance Methods
