@@ -73,7 +73,7 @@
     - [ ]  Linear Regression
     - [ ]  Logistic Regression
     - [x]  Decision Trees
-    - [ ]  Random Forest
+    - [x]  Random Forest
     - [ ]  Support Vector Machines (SVM)
     - [ ]  K-Nearest Neighbors (KNN)
     - [ ]  Gradient Boosting Machines
