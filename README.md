@@ -72,7 +72,7 @@
 - [ ]  **Supervised Learning**
     - [ ]  Linear Regression
     - [ ]  Logistic Regression
-    - [ ]  Decision Trees
+    - [x]  Decision Trees
     - [ ]  Random Forest
     - [ ]  Support Vector Machines (SVM)
     - [ ]  K-Nearest Neighbors (KNN)
